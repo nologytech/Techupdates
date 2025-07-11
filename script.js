@@ -23,6 +23,6 @@ if (!isReturning) {
   }, 1000);
 
   document.getElementById("getLinkBtn").addEventListener("click", () => {
-    window.location.href = "https://pastelink.net/dsd9m08m"; // Replace with your actual link
+    window.location.href = "https://pastelink.net/3rr6bksq"; // Replace with your actual link
   });
 }
